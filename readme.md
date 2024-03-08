@@ -1,4 +1,4 @@
-# On Host Pi      
+# Work in progress - Do not use yet 
   ## Install TigerVNC     
     
     sudo apt-get install tigervnc-standalone-server
